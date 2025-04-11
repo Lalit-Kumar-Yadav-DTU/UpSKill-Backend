@@ -163,7 +163,7 @@ const { cloudinaryConnect } = require('./config/cloudinary');
 // routes
 const userRoutes = require('./routes/user');
 const profileRoutes = require('./routes/profile');
-const paymentRoutes = require('./routes/Payment');
+const paymentRoutes = require('./routes/Payments');
 const courseRoutes = require('./routes/course');
 
 
